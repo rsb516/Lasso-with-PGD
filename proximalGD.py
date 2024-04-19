@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Dec  2 18:02:05 2014
-
-@author: Md. Iftekhar Tanveer (itanveer@cs.rochester.edu)
 """
 import numpy as np
 import matplotlib.pyplot as pp
